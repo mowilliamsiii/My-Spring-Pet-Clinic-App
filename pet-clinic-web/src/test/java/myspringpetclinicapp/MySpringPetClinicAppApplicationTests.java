@@ -1,4 +1,4 @@
-package com.moseswilliamsiii.myspringpetclinicapp;
+package myspringpetclinicapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
