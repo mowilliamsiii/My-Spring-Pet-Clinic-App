@@ -18,7 +18,7 @@
 
     <groupId>com.moseswilliamsiii</groupId>
     <artifactId>my-spring-pet-clinic-app</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
     <name>my-spring-pet-clinic-app</name>
     <description>my-spring-pet-clinic-app</description>
 
