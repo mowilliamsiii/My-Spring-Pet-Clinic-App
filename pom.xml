@@ -18,7 +18,7 @@
 
     <groupId>com.moseswilliamsiii</groupId>
     <artifactId>my-spring-pet-clinic-app</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <name>my-spring-pet-clinic-app</name>
     <description>my-spring-pet-clinic-app</description>
 
@@ -29,7 +29,8 @@
     <scm>
         <url>https://github.com/mowilliamsiii/My-Spring-Pet-Clinic-App</url>
         <developerConnection>scm:git:https://github.com/mowilliamsiii/My-Spring-Pet-Clinic-App.git</developerConnection>
-    </scm>
+      <tag>my-spring-pet-clinic-app-0.0.2</tag>
+  </scm>
 
     <distributionManagement>
         <repository>
