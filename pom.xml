@@ -23,9 +23,12 @@
         <java.version>17</java.version>
     </properties>
 
-    <dependencies>
+    <scm>
+        <developerConnection>
+            scm:git:https://github.com/mowilliamsiii/My-Spring-Pet-Clinic-App/
+        </developerConnection>
+    </scm>
 
-    </dependencies>
 
     <build>
         <plugins>
@@ -39,6 +42,13 @@
                             <artifactId>lombok</artifactId>
                         </exclude>
                     </excludes>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-release-plugin</artifactId>
+                <configuration>
+                    <goal>install</goal>
                 </configuration>
             </plugin>
         </plugins>
