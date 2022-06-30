@@ -24,7 +24,7 @@
     </properties>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/mowilliamsiii/My-Spring-Pet-Clinic-App.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:mowilliamsiii/My-Spring-Pet-Clinic-App.git</developerConnection>
       <tag>HEAD</tag>
   </scm>
 
