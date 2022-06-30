@@ -3,19 +3,22 @@
 
     <modelVersion>4.0.0</modelVersion>
     <packaging>pom</packaging>
+
     <modules>
         <module>pet-clinic-web</module>
         <module>pet-clinic-data</module>
     </modules>
+
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.7.1</version>
         <relativePath /> <!-- lookup parent from repository -->
     </parent>
+
     <groupId>com.moseswilliamsiii</groupId>
     <artifactId>my-spring-pet-clinic-app</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>my-spring-pet-clinic-app</name>
     <description>my-spring-pet-clinic-app</description>
 
@@ -25,8 +28,8 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:mowilliamsiii/My-Spring-Pet-Clinic-App.git</developerConnection>
-      <tag>HEAD</tag>
-  </scm>
+      <tag>my-spring-pet-clinic-app-0.0.3</tag>
+    </scm>
 
     <distributionManagement>
         <repository>
