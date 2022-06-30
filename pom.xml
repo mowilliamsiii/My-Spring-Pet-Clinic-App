@@ -25,7 +25,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/mowilliamsiii/My-Spring-Pet-Clinic-App.git</developerConnection>
-      <tag>my-spring-pet-clinic-app-0.0.2</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <distributionManagement>
